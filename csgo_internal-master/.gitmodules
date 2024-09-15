@@ -1,0 +1,28 @@
+[submodule "contrib/tinyformat"]
+	path = contrib/tinyformat
+	url = https://github.com/c42f/tinyformat.git
+[submodule "contrib/luajit"]
+	path = contrib/luajit
+	url = https://github.com/WohlSoft/LuaJIT
+[submodule "contrib/gui"]
+	path = contrib/gui
+	url = https://github.com/ev0lve/gui.git
+[submodule "contrib/shared"]
+	path = contrib/shared
+	url = https://github.com/ev0lve/shared.git
+[submodule "contrib/client/zlib"]
+	path = contrib/client/zlib
+	url = https://github.com/madler/zlib.git
+[submodule "contrib/client/gzip"]
+	path = contrib/client/gzip
+	url = https://github.com/mapbox/gzip-hpp.git
+[submodule "contrib/client/libressl"]
+	path = contrib/client/libressl
+	url = https://github.com/ev0lve/libressl.git
+[submodule "contrib/interrogator"]
+	path = contrib/interrogator
+	url = https://github.com/thomasdangl/csgo_interrogator.git
+	branch = master
+[submodule "contrib/nlohmann"]
+	path = contrib/nlohmann
+	url = https://github.com/nlohmann/json.git

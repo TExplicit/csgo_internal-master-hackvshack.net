@@ -1,0 +1,10 @@
+
+build_debug
+build_release
+.vs/*
+cmake-build-debug
+cmake-build-relwithdebinfo
+.idea
+contrib/client/libressl
+contrib/client/virt
+bin
